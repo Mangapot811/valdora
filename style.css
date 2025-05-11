@@ -125,18 +125,18 @@ section {
   height: auto;
 }
 .bolota:hover{
-    box-shadow:10px 10px 10px 20px black;
+    box-shadow:10px 10px 10px 10px black;
   transition:2s;
 }
 .lis:hover{
-box-shadow:10px 10px 10px 20px black;
+box-shadow:10px 10px 10px 10px black;
   transition:2s;
 }
 .vysoki:hover{
-  box-shadow:10px 10px 10px 20px black;
+  box-shadow:10px 10px 10px 10px black;
     transition:2s;
 }
 .magly:hover{
-  box-shadow:10px 10px 10px 20px black;
+  box-shadow:10px 10px 10px 10px black;
     transition:2s;
 }
